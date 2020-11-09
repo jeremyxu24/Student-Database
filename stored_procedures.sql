@@ -1,5 +1,4 @@
 -- STUDENT SCHEDULE
-
 CREATE PROCEDURE 
 	select_student_schedule(p_student_id INT)
 	LANGUAGE SQL
