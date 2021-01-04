@@ -176,3 +176,5 @@ CREATE TABLE user_base_role (
 	FOREIGN KEY (app_role_id)
 	REFERENCES app_role(app_role_id) ON DELETE CASCADE ON UPDATE CASCADE
 )
+
+	
