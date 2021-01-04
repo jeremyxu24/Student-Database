@@ -574,3 +574,5 @@ AS $$
 	WHERE 
 		c.class='Directed Studies' AND ss.period=per
 $$
+	
+									     
